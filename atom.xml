@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[lq'blog]]></title>
+  <subtitle><![CDATA[Sometimes naive.]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2016-02-05T11:51:21.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name><![CDATA[liu qi]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Some ideas about ML]]></title>
+    <link href="http://yoursite.com/2016/02/05/machine-learning-thoughts/"/>
+    <id>http://yoursite.com/2016/02/05/machine-learning-thoughts/</id>
+    <published>2016-02-05T11:51:21.000Z</published>
+    <updated>2016-02-05T11:51:21.000Z</updated>
+    <content type="html"><![CDATA[<p>最近一些时日,在于学习机器学习和人工智能.估摸着未来十多年我的人生就耗在这个方向了.目前学习进度较缓慢,堪堪可以赶上coursera的进度.</p>
+<p>学了也不少时间了,大约有1个半月,感受一句话:</p>
+<p>ML大法好!!!</p>
+<h3 id="Forward_Steps"><a href="#Forward_Steps" class="headerlink" title="Forward Steps"></a>Forward Steps</h3><p>突然发现英文标题很容器起.</p>
+<h4 id="u6570_u5B66"><a href="#u6570_u5B66" class="headerlink" title="数学"></a>数学</h4><p>数学水平很大限制了学习进度.看样子 <code>高等数学</code> <code>线性代数</code> <code>概率</code> 等基础数学需要补.</p>
+<h4 id="u5C0F_u65B9_u5411"><a href="#u5C0F_u65B9_u5411" class="headerlink" title="小方向"></a>小方向</h4><p>人工声音合成.</p>
+<p>一个可以模拟任何人说话的模型.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>最近一些时日,在于学习机器学习和人工智能.估摸着未来十多年我的人生就耗在这个方向了.目前学习进度较缓慢,堪堪可以赶上coursera的进度.</p>
+<p>学了也不少时间了,大约有1个半月,感受一句话:</p>
+<p>ML大法好!!!</p>
+<h3 id="Forward]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[hello world]]></title>
+    <link href="http://yoursite.com/2016/02/05/hello-world/"/>
+    <id>http://yoursite.com/2016/02/05/hello-world/</id>
+    <published>2016-02-05T11:39:02.000Z</published>
+    <updated>2016-02-05T11:39:02.000Z</updated>
+    <content type="html"><![CDATA[<h4 id="u535A_u5BA2"><a href="#u535A_u5BA2" class="headerlink" title="博客"></a>博客</h4><p>作为一个多年懒癌患者,能鼓捣这个博客,我感觉很开心.先发个颜文字庆祝一下.ヾ(ﾟωﾟ)ﾉ゛</p>
+<p>有一段时间情绪低落,陷入宇宙哲理,世界格局,人生意义,辞职OR继续干的思考中,感觉回到了中二的高中时代.<code>pigz</code>说不如写个博客?反正闲着也是闲着.</p>
+<p>我想也是,说不定哪天人就没了,还是给这个世界留个垃圾站,证明自己曾经来过.</p>
+<p>于是这个博客就搭起来了,我也不知道会不会一直更新下去,说不定这篇之后就没了呢.</p>
+<p>介于我有限的语言表达能力,匮乏的中文语法知识,这个博客基本就是给自己看,不会考虑可能路过的同学.</p>
+<h4 id="u5B87_u5B99_u54F2_u7406_2C_u4E16_u754C_u683C_u5C40_2C_u4EBA_u751F_u610F_u4E49_u2026"><a href="#u5B87_u5B99_u54F2_u7406_2C_u4E16_u754C_u683C_u5C40_2C_u4EBA_u751F_u610F_u4E49_u2026" class="headerlink" title="宇宙哲理,世界格局,人生意义…"></a>宇宙哲理,世界格局,人生意义…</h4><p>工作好无聊啊…无聊啊…无聊啊…无聊啊…</p>
+<p>别人的生活看起来好赞啊…好赞啊…好赞啊…</p>
+<p>于是想辞职.</p>
+<p>可是没钱.T_T.</p>
+<p>尼玛现在快30了,很快接下来就要找个妹子结婚,生娃,买房子,买车,孩子上幼儿园/小学/高中,人生变得索然无趣.</p>
+<p>那么人活着为了什么呢?</p>
+<p>人的情绪和多巴胺浓度正相关.多巴胺浓度低了情绪低落,开始思考人生的意义,浓度高了,人就会感觉到满足,不再纠结人生意义这种虚无飘渺的事情.<br>多巴胺浓度有一定的变化规律,和季节,天气等客观条件均有关系..这也是为什么对于轻度抑郁的人,往往建议换个环境,去旅游,多见见阳光之类,重度抑郁直接注射<br>激素刺激产生多巴胺就好了…</p>
+<p>也就是说思考人生意义这个事情,有时候并不是自身意识决定的…可能只是碰巧有几天阴天,或者不按时作息,你身体的多巴胺产生细胞罢工了.</p>
+<p>然后…擦,不知道怎么写了.就这样吧.</p>
+<p>我想我未来的人生,注定多巴胺浓度高不了了.</p>
+<h4 id="u5206_u6807_u9898_u548C_u6587_u7AE0_u6807_u9898_u4E00_u6837_u96BE_u8D77_u554A"><a href="#u5206_u6807_u9898_u548C_u6587_u7AE0_u6807_u9898_u4E00_u6837_u96BE_u8D77_u554A" class="headerlink" title="分标题和文章标题一样难起啊"></a>分标题和文章标题一样难起啊</h4><p>语文真是白学了.fuck.</p>
+<p>总之,工作是不辞了,日子照样过.</p>
+<p>最近对学术越来越有兴趣,感觉这才是人类的希望嘛..</p>
+<p>over.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h4 id="u535A_u5BA2"><a href="#u535A_u5BA2" class="headerlink" title="博客"></a>博客</h4><p>作为一个多年懒癌患者,能鼓捣这个博客,我感觉很开心.先发个颜文字庆祝一下.ヾ(ﾟωﾟ)ﾉ゛</p>
+<p]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
